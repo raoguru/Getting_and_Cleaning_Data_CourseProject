@@ -18,7 +18,7 @@ The tidy data was created using R script called 'run_analysis.R' that does the f
 3. Uses descriptive activity names to name the activities in the data set, and appropriately labels the data set with descriptive variable names.
 4. From the dataset above, it creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The output is a tidy data in a file named 'dt_tidy.txt.'  
+The output is a tidy data in a file named 'tidy.txt.'  
 
 ##Code Book
-Also included here is a code book 'dt_codebook.txt' describing the variables.
+Also included here is a code book 'codebook.md' describing the variables.
